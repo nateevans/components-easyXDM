@@ -1,0 +1,40 @@
+{
+    "name": "nateevans/components-easyXDM",
+    "description": "Cross-Domain Messaging made easy.",
+    "type": "component",
+    "homepage": "http://easyxdm.net/",
+    "license": "MIT",
+    "version": "2.4.17",
+    "support": {
+        "issues": "https://github.com/oyvindkinsey/easyXDM/issues",
+        "source": "https://github.com/oyvindkinsey/easyXDM"
+    },
+    "authors": [
+        {
+            "name": "Øyvind Kinsey",
+            "email": "oyvind@kinsey.no"
+        }
+    ],
+    "require": {
+        "robloach/component-installer": "*"
+    },
+    "extra": {
+        "component": {
+            "version": "2.4.17",
+            "scripts": [
+                "easyXDM.js",
+                "easyXDM.Widgets.js"
+            ],
+            "files": [
+                "easyXDM.debug.js",
+                "easyXDM.min.js",
+                "easyXDM.Widgets.debug.js",
+                "easyXDM.Widgets.min.js",
+                "easyxdm.swf",
+                "cors/index.html",
+                "json2.js",
+                "name.html"
+            ]
+        }
+    }
+}
