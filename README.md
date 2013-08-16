@@ -1,4 +1,4 @@
-component-easyXDM
+components-easyXDM
 =================
 
 Shim repository for my fork of [easyXDM](https://github.com/oyvindkinsey/easyXDM).
