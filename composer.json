@@ -34,7 +34,10 @@
                 "cors/index.html",
                 "json2.js",
                 "name.html"
-            ]
+            ],
+            "shim": {
+                "exports": "easyXDM"
+            }
         }
     }
 }
