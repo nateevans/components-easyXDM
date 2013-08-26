@@ -4,6 +4,7 @@
     "type": "component",
     "homepage": "http://easyxdm.net/",
     "license": "MIT",
+    "version": "dev-master",
     "support": {
         "issues": "https://github.com/oyvindkinsey/easyXDM/issues",
         "source": "https://github.com/oyvindkinsey/easyXDM"
