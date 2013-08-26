@@ -18,6 +18,7 @@
     "require": {
         "robloach/component-installer": "*"
     },
+    "target-dir": "printsites/test",
     "extra": {
         "component": {
             "version": "2.4.17",
