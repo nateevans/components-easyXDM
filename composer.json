@@ -17,7 +17,7 @@
     "require": {
         "robloach/component-installer": "*"
     },
-    "target-dir": "printsites/test",
+    "component-dir": "vendor-components/printsites",
     "extra": {
         "branch-alias": {
             "dev-master": "master"
