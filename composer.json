@@ -29,9 +29,7 @@
                 "easyXDM.Widgets.js"
             ],
             "files": [
-                "easyXDM.debug.js",
                 "easyXDM.min.js",
-                "easyXDM.Widgets.debug.js",
                 "easyXDM.Widgets.min.js",
                 "easyxdm.swf",
                 "cors/index.html",
