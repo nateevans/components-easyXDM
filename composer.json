@@ -22,7 +22,7 @@
             "dev-master": "master"
         },
         "component": {
-            "name": "nateevans/components-easyxdm",
+            "name": "easyxdm",
             "version": "2.4.17",
             "scripts": [
                 "easyXDM.js",
