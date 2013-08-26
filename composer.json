@@ -17,12 +17,12 @@
     "require": {
         "robloach/component-installer": "*"
     },
-    "component-dir": "vendor-components/printsites",
     "extra": {
         "branch-alias": {
             "dev-master": "master"
         },
         "component": {
+            "name": "nateevans/components-easyxdm",
             "version": "2.4.17",
             "scripts": [
                 "easyXDM.js",
