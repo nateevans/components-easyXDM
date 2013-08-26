@@ -4,7 +4,6 @@
     "type": "component",
     "homepage": "http://easyxdm.net/",
     "license": "MIT",
-    "version": "2.4.17",
     "support": {
         "issues": "https://github.com/oyvindkinsey/easyXDM/issues",
         "source": "https://github.com/oyvindkinsey/easyXDM"
@@ -20,6 +19,9 @@
     },
     "target-dir": "printsites/test",
     "extra": {
+        "branch-alias": {
+            "dev-master": "master"
+        },
         "component": {
             "version": "2.4.17",
             "scripts": [
